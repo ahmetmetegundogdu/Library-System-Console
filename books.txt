@@ -1,0 +1,13 @@
+Suç ve Ceza-Fyodor Dostoyevski-1866-true-1
+Sefiller-Victor Hugo-1862-true-2
+1984-George Orwell-1949-false-3
+Hayvan Çiftliği-George Orwell-1945-true-4
+Kürk Mantolu Madonna-Sabahattin Ali-1943-true-5
+Fahrenheit 451-Ray Bradbury-1953-false-6
+Satranç-Stefan Zweig-1943-true-7
+İnce Memed-Yaşar Kemal-1955-true-8
+Anna Karenina-Lev Tolstoy-1878-false-9
+Don Kişot-Miguel de Cervantes-1605-true-10
+Şeker Portakalı-Ahmet-100-false-0
+Deneme-Deneme-2000-false-809
+Sait Faik-Abasıyanık-2013-false-865
